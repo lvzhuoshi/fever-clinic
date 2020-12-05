@@ -12,4 +12,6 @@ Consider the frequency of updating fever clinics data from various sources, we p
 A real-time map of all hospitals has been uploaded on this repository.
 # Contributions
 ## Data Sources
-You can download the **Data Source List** file in the repository to view the data source information.
+You can download the *Data Sources List* file in the repository to view the data source information.
+## Specific Contributors
+

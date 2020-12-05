@@ -15,6 +15,10 @@ A real-time map of all hospitals has been uploaded on this repository.
 You can download the *Data Sources List* file in the repository to view the data source information.
 ## Specific Contributors
 A list of curators and contributors to the Open COVID-19 Data Working Group is provided below:
-      表头1    |表头2   
+      Name     |E-mail   
 :-------------:|:------------: 
-内容11111111   |内容2222222222    
+Zhuoshi Lv     |zhuoshi@my.swjtu.edu.cn
+Guoqi Li       |guoqi@swjtu.edu.cn
+Gang Chen      |zhuoshi@my.swjtu.edu.cn
+Wenjie Sun     |zhuoshi@my.swjtu.edu.cn
+Yuting Shi     |zhuoshi@my.swjtu.edu.cn

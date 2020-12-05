@@ -9,4 +9,7 @@ We promote open collaboration among researchers and encourage users of these dat
 # Reconstructed line lists and data descriptor
 Consider the frequency of updating fever clinics data from various sources, we plan to update the dataset every 15 days.
 
-A dashboard showing the data can be viewed here: （fever-clinic/Fever Clinics Map.html at main · lvzhuoshi/fever-clinic (github.com)）
+A real-time map of all hospitals has been uploaded on this repository.
+# Contributions
+## Data Sources
+[Data Source List](fever-clinic/Data Sources List.xlsx at main · lvzhuoshi/fever-clinic (github.com))

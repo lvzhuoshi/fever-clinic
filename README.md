@@ -6,3 +6,7 @@ We thank all those organizations and individuals around China who have been will
 Please get in touch should you want to contribute line list data, have any questions or just want to say hi: zhuoshi@my.swjtu.edu.cn or guoqi@swjtu.edu.cn
 
 We promote open collaboration among researchers and encourage users of these data make best efforts to collaborate with representatives of the groups that generated data and involve them in their analyses where appropriate. Please get in touch should you require more information.
+# Reconstructed line lists and data descriptor
+Consider the frequency of updating fever clinics data from various sources, we plan to update the dataset every 15 days.
+
+A dashboard showing the data can be viewed here: fever-clinic/Fever Clinics Map.html at main · lvzhuoshi/fever-clinic (github.com)

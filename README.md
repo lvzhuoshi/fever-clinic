@@ -19,6 +19,6 @@ A list of curators and contributors to the Open COVID-19 Data Working Group is p
 :-------------:|:------------: 
 Zhuoshi Lv     |zhuoshi@my.swjtu.edu.cn
 Guoqi Li       |guoqi@swjtu.edu.cn
-Gang Chen      |zhuoshi@my.swjtu.edu.cn
-Wenjie Sun     |zhuoshi@my.swjtu.edu.cn
-Yuting Shi     |zhuoshi@my.swjtu.edu.cn
+Gang Chen      |chengang123@my.swjtu.edu.cn
+Wenjie Sun     |sunwenjie@my.swjtu.edu.cn
+Yuting Shi     |shiyutingyo@163.com

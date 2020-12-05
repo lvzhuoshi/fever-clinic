@@ -15,6 +15,6 @@ A real-time map of all hospitals has been uploaded on this repository.
 You can download the *Data Sources List* file in the repository to view the data source information.
 ## Specific Contributors
 A list of curators and contributors to the Open COVID-19 Data Working Group is provided below:
-表头1          |  表头2   
+      表头1    |      表头2   
 :-------------:|:------------: 
-内容1          | 内容2    
+      内容1    |      内容2    
